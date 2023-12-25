@@ -59,9 +59,9 @@ select {
 
 .paper {
 	position: absolute;
-	top: 48px;
+	top: 96px;
 	width: 100%;
-	height: calc(100vh - 48px);
+	height: calc(100vh - 96px);
 	overflow: scroll;
 }
 
