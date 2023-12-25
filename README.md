@@ -2,5 +2,5 @@
 A completely free version of amar ujala hindi epaper with all available cities.
 ## how to use?
 
- - Visit [[https://paraspl01t.github.io/amar-ujala-free-epaper/](https://paraspl01t.github.io/amar-ujala-free-epaper/)]. 
+ - Visit [[https://pradyumnagr.github.io/amar-ujala-epaper/](https://pradyumnagr.github.io/amar-ujala-epaper/)]. 
  - Select your city from upper right dropdown list, and BOOM!
